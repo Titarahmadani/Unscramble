@@ -15,7 +15,3 @@ Aplikasi Unscramble adalah permainan pengacak kata pemain tunggal. Aplikasi ini 
 
 https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state
 
-<div style="display: flex; gap: 16px">
-    <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-viewmodel-and-state/img/ac79bf1ed6375a27_856.png" width="250px" />
-    <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-viewmodel-and-state/img/c6727347fe0db265_856.png" width="250px" />
-</div>
